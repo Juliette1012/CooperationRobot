@@ -1,6 +1,6 @@
 # CooperationRobot
 
-## Photo : interaction collaborative
+## Photon : interaction collaborative
 
 Ce monde possède 2 étages (le sous sol étant accessible par un plan incliné, une rampe). 
 Une des possibilités possible de ce monde est de faire tomber la sphère blanche au sous sol pour essayer de la porter. Celle-ci est placée sur une plateforme manipulable avec 2 utilisateurs à l'aide de 2 poignées (la plateforme vue comme un plane est trop lourde pour être déplacée seule).  
